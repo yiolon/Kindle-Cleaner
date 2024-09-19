@@ -1,4 +1,9 @@
-#Kindle-Cleaner
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
+
+# Kindle-Cleaner
 
 Compatible with Windows x64 systems.
 
@@ -9,11 +14,11 @@ If you still need the .sdr files, it's recommended to back them up before using 
 HASH-MD5: 61b3bc379b765708de3bbb174722d32f
 
 
-##Directions for Use
+##  Directions for Use
 
 Download and Run:
 
-Download the Kindle-Cleaner.exe file and double-click to run it.
+Download the **Kindle-Cleaner.exe** file and double-click to run it.
 
 Input File Path:
 
@@ -24,17 +29,17 @@ Operation:
 Once you press Enter, the console will display all .sdr folders associated with the ebooks. The tool will automatically delete the .sdr folders for the books that no longer exist on your Kindle, while keeping the others.
 
 
-###中文说明
+# 中文说明
 
 在Windows x64系统上运行使用
 
 本程序会在删除电子书之后自动删除与之匹配的 .sdr 文件夹。如果你有需要，请提前手动备份这些 .sdr 文件。
 
-##使用说明
+##  使用说明
 
 下载和运行:
 
-下载并双击 Kindle-Cleaner.exe 运行程序。
+下载并双击 **Kindle-Cleaner.exe** 运行程序。
 
 输入文件路径:
 
@@ -43,4 +48,3 @@ Once you press Enter, the console will display all .sdr folders associated with 
 自动执行:
 
 按回车键后，程序将列出所有拥有电子书的 .sdr 文件夹。接着，程序会自动删除那些已被移除电子书的 .sdr 文件夹，并保留其他文件。
-
