@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kindle-Cleaner</id>
+    <version>1.0.0</version>
+    <authors>Kindle-Cleaner</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9f0f4d8b2cfb0c86747bd0f42087f0875c8da113" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\C# Master Course Study\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.runtimeconfig.json" target="lib\net8.0\Kindle-Cleaner.runtimeconfig.json" />
+    <file src="G:\C# Master Course Study\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.dll" target="lib\net8.0\Kindle-Cleaner.dll" />
+  </files>
+</package>
