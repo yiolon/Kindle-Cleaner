@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\",
+  "WorkspaceRootPath": "H:\\study\\Projects\\Kindle-Cleaner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC958147-F088-4DC1-A8DB-877D74ECBC73}|Kindle-Cleaner\\Kindle-Cleaner.csproj|h:\\study\\projects\\kindle-cleaner\\kindle-cleaner\\kindle-cleaner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC958147-F088-4DC1-A8DB-877D74ECBC73}|Kindle-Cleaner\\Kindle-Cleaner.csproj|solutionrelative:kindle-cleaner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kindle-Cleaner\\Kindle-Cleaner\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,12 +29,12 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Program.cs",
-              "RelativeDocumentMoniker": "Kindle-Cleaner\\Program.cs",
+              "RelativeDocumentMoniker": "Kindle-Cleaner\\Kindle-Cleaner\\Program.cs",
               "ToolTip": "H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Program.cs",
-              "RelativeToolTip": "Kindle-Cleaner\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAowCMAAAANAAAA",
+              "RelativeToolTip": "Kindle-Cleaner\\Kindle-Cleaner\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T06:09:34.515Z",
+              "WhenOpened": "2025-12-10T08:00:30.558Z",
               "EditorCaption": ""
             }
           ]

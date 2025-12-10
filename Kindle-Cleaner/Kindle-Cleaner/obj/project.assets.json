@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\123\\.nuget\\packages\\": {}
+    "C:\\Users\\yiolon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C# Master Course Study\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner.csproj",
+      "projectUniqueName": "H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner.csproj",
       "projectName": "Kindle-Cleaner",
-      "projectPath": "G:\\C# Master Course Study\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner.csproj",
-      "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "G:\\C# Master Course Study\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\obj\\",
+      "projectPath": "H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner.csproj",
+      "packagesPath": "C:\\Users\\yiolon\\.nuget\\packages\\",
+      "outputPath": "H:\\study\\Projects\\Kindle-Cleaner\\Kindle-Cleaner\\Kindle-Cleaner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yiolon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

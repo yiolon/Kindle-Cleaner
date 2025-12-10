@@ -12,3 +12,18 @@ G:\C# Master Course Study\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Relea
 G:\C# Master Course Study\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.pdb
 G:\C# Master Course Study\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.genruntimeconfig.cache
 G:\C# Master Course Study\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\ref\Kindle-Cleaner.dll
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.exe
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.deps.json
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.runtimeconfig.json
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.dll
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\bin\Release\net8.0\Kindle-Cleaner.pdb
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.GeneratedMSBuildEditorConfig.editorconfig
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.AssemblyInfoInputs.cache
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.AssemblyInfo.cs
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.csproj.CoreCompileInputs.cache
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.sourcelink.json
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.dll
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\refint\Kindle-Cleaner.dll
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.pdb
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\Kindle-Cleaner.genruntimeconfig.cache
+H:\study\Projects\Kindle-Cleaner\Kindle-Cleaner\Kindle-Cleaner\obj\Release\net8.0\ref\Kindle-Cleaner.dll

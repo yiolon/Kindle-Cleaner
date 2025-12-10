@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kindle-Cleaner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0f4d8b2cfb0c86747bd0f42087f0875c8da113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+488736862e39feacb2206ea33966c2dc447f50da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kindle-Cleaner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kindle-Cleaner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
